@@ -1,11 +1,13 @@
 <h1 style = "text-align: center;"> <b>Ben Boatright</b> </h1>
 
 ---
-<a style = "text-align: center;" href="bboatright@protonmail.com">
+<div style = "text-align: center;">
+<a href="bboatright@protonmail.com">
 bboatright@protonmail.com</a>
 |
-<a style = "text-align: center;" href="https://linkedin.com/in/benhboatright">
+<a href="https://linkedin.com/in/benhboatright">
 https://linkedin.com/in/benhboatright</a>
+</div>
 
 ---
 ## Professional Experience
