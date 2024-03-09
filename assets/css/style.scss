@@ -8,18 +8,6 @@
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-    display: flex;
-    grid-template-columns: 3;
-}
-
-header{
-    flex: 1;
-}
-
-section{
-    flex: 2;
-}
-
-footer{
-    flex: 3;
+    display: grid;
+    grid-template-columns: 25% 75%;
 }
