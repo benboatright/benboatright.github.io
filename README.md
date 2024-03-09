@@ -8,6 +8,7 @@ bboatright@protonmail.com</a>
 <a href="https://linkedin.com/in/benhboatright">
 https://linkedin.com/in/benhboatright</a>
 </div>
+
 ---
 ## Professional Experience
 ---
