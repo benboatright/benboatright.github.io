@@ -1,12 +1,15 @@
-# Ben Boatright
+# **Ben Boatright**
 
+---
 [Email](bboatright@protonmail.com) |
 [LinkedIn](https://linkedin.com/in/benhboatright)
-
-## Experience
 ---
-### Darden School of Business, Charlottesville VA
-#### Systems Engineer (March 2023 - Present)
+
+## **Experience**
+---
+### **Systems Engineer (March 2023 - Present)**
+Darden School of Business
+
 
 #### Case Researcher (April 2021 - March 2023)
 
