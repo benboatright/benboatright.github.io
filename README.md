@@ -57,4 +57,4 @@ https://linkedin.com/in/benhboatright</a>
 
 Citations
 
-This project followes Carolyn's demo here:  https://workwithcarolyn.com/blog/digital-cv-guide
+This project follows Carolyn's demo here:  [https://workwithcarolyn.com/blog/digital-cv-guide](https://workwithcarolyn.com/blog/digital-cv-guide)
