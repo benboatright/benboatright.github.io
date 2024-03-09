@@ -2,11 +2,12 @@
 
 ---
 <div style = "text-align: center;">
-<p>
-bboatright@protonmail.com | https://linkedin.com/in/benhboatright
-<p>
+<a href="bboatright@protonmail.com">
+bboatright@protonmail.com</a>
+|
+<a href="https://linkedin.com/in/benhboatright">
+https://linkedin.com/in/benhboatright</a>
 </div>
-
 ---
 ## Professional Experience
 ---
