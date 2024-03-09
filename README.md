@@ -1,15 +1,14 @@
 <h1 style = "text-align: center;"> <b>Ben Boatright</b> </h1>
 
 ---
-<p style = "text-align: center;">
-[bboatright@protonmail.com](bboatright@protonmail.com) |
-[LinkedIn](https://linkedin.com/in/benhboatright)
-</p>
+<a style = "text-align: center;" href="bboatright@protonmail.com">
+bboatright@protonmail.com</a>
+|
+<a style = "text-align: center;" href="https://linkedin.com/in/benhboatright">
+https://linkedin.com/in/benhboatright</a>
 
 ---
-
----
-## **Professional Experience**
+## Professional Experience
 ---
 ### Darden School of Business, Charlottesville VA
 <!-- https://stackoverflow.com/a/65855714 -->
@@ -19,6 +18,7 @@
 </p>
 
 - Test
+- Test 2
 
 <p style="text-align:left;">
     <b>Case Researcher</b>
@@ -26,6 +26,7 @@
 </p>
 
 - Test
+- Test 2
 
 ---
 ## Education
