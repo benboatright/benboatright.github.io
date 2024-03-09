@@ -52,3 +52,9 @@ https://linkedin.com/in/benhboatright</a>
     <br>
     Bachelor of Science in Civil Engineering
 </p>
+
+---
+
+Citations
+
+This project followes Carolyn's demo here:  https://workwithcarolyn.com/blog/digital-cv-guide
