@@ -9,9 +9,17 @@
     margin-bottom: 0px;
     margin-left: 0px;
     display: flex;
-    flex-flow: row wrap;
+    grid-template-columns: 3;
+}
+
+header{
+    flex: 1;
 }
 
 section{
-    width: auto;
+    flex: 2;
+}
+
+footer{
+    flex: 3;
 }
