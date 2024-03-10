@@ -1,0 +1,14 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.bio{
+    flex: 50%;
+}
+
+.resume{
+    width: 50%;
+    min-width: 500px;
+}
